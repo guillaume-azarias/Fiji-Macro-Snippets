@@ -35,3 +35,8 @@ Here, I provide a set of simple tools to customise to your images and provide a 
 * *Application*: Save all the open images at once
 * *What it does*: Save the images as tiff, in the order they were open
 * *Advantage*: Usefull for parameter testing
+
+### Stack to images and save it
+* *Application*: Image processing on specific images
+* *What it does*: Dissociate the stack and stack the images as tiff
+* *Advantage*: Single step function
