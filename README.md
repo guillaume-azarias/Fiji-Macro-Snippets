@@ -12,38 +12,26 @@ Here, I provide a set of simple tools to customise to your images and provide a 
 * *Advantage*: Allow to quickly screen a high number of images in a single function
 
 ### Closeit
-*Application*: When several images are open with Fiji, including B&C, Log, Results, etc and you want to close everything at once
-
-*What it does*: Close all open windows, select and close "Log", "Results", "Synchronize Windows", "B&C", "Threshold" and "ROI Manager"
-
-*Advantage*: Allow to clean your screen instantly. Usefull when called through the toolbar
+* *Application*: When several images are open with Fiji, including B&C, Log, Results, etc and you want to close everything at once
+* *What it does*: Close all open windows, select and close "Log", "Results", "Synchronize Windows", "B&C", "Threshold" and "ROI Manager"
+* *Advantage*: Allow to clean your screen instantly. Usefull when called through the toolbar
 
 ### LIFextractor
-*Application*: Image processing for images acquired with a Leica microscopy instrumentation device
-
-*What it does*: Extract all the .lif files and convert them in tiff
-
-*Advantage*: Allow to further process images with Fiji 
+* *Application*: Image processing for images acquired with a Leica microscopy instrumentation device
+* *What it does*: Extract all the .lif files and convert them in tiff
+* *Advantage*: Allow to further process images with Fiji 
 
 ### Plate_annotation
-*Application*: Titration/screening experiment
-
-*What it does*: Annotate the number of cells and plasmid or virus concentration
-
-*Advantage*: Save your file with the relevant information and avoid losing information
+* *Application*: Titration/screening experiment
+* *What it does*: Annotate the number of cells and plasmid or virus concentration
+* *Advantage*: Save your file with the relevant information and avoid losing information
 
 ### Removing background from an image series
-*Application*: Remove the background fluorescence from an image series
-
-*What it does*: Substract the background
-
-*Advantage*: Necessary step for image processing. Mind the acquisition settings.
+* *Application*: Remove the background fluorescence from an image series
+* *What it does*: Substract the background
+* *Advantage*: Necessary step for image processing. Mind the acquisition settings.
 
 ### Save and close all images
-*Application*: Save all the open images at once
-
-*What it does*: Save the images as tiff, in the order they were open
-
-*Advantage*: Usefull for parameter testing
-
-
+* *Application*: Save all the open images at once
+* *What it does*: Save the images as tiff, in the order they were open
+* *Advantage*: Usefull for parameter testing
