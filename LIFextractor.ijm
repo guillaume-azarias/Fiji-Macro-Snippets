@@ -12,8 +12,6 @@ Dialog.addString("File suffix: ", ".lif", 5);
 Dialog.show();
 suffix = Dialog.getString();
 
-processFolder(input);
-
 function processFolder(input) {
 	list = getFileList(input);
 	for (i = 0; i < list.length; i++) {
@@ -31,6 +29,9 @@ function processFile(input, output, file) {
 	run("Bio-Formats", "open=["+ input + file +"] color_mode=Default open_all_series split_channels view=Hyperstack stack_order=Default");
 	// Close the FLIM files if relevant
 	//close("*FLIM*");
+
+
+processFolder(input);
 
 // get image IDs of all open images and save it
 ids=newArray(nImages); 
