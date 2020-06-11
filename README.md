@@ -40,3 +40,8 @@ Here, I provide a set of simple tools to customise to your images and provide a 
 * *Application*: Image processing on specific images
 * *What it does*: Dissociate the stack and stack the images as tiff
 * *Advantage*: Single step function
+
+### Stack_Align
+* *Application*: In case you have a 2-channel images where the channels are not correctly aligned
+* *What it does*: Dissociate the channels, average images (to edit for your purpose) and show a user-interface to set the shift.
+* *Advantage*: Critical step for image ratio calculation
