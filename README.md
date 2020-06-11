@@ -20,6 +20,13 @@ Here I provide a set of simple tools to customise to your images and provide a b
 
 *Advantage*: Allow to clean your screen instantly. Usefull when called through the toolbar
 
+### LIFextractor
+*Application*: Image processing for images acquired with a Leica microscopy instrumentation device
+
+*What it does*: Extract all the .lif files and convert them in tiff
+
+*Advantage*: Allow to further process images with Fiji 
+
 ### Plate_annotation
 *Application*: Titration/screening experiment
 
