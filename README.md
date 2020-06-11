@@ -18,12 +18,20 @@ Here I provide a set of simple tools to customise to your images and provide a b
 
 *What it does*: Close all open windows, select and close "Log", "Results", "Synchronize Windows", "B&C", "Threshold" and "ROI Manager"
 
-*Advantage*: Allow to clean your screen instantly. Usefull when called through the toolbar.
+*Advantage*: Allow to clean your screen instantly. Usefull when called through the toolbar
 
 ### Plate_annotation
 *Application*: Titration/screening experiment
 
 *What it does*: Annotate the number of cells and plasmid or virus concentration
 
-*Advantage*: Save your file with the relevant information and avoid losing information. 
+*Advantage*: Save your file with the relevant information and avoid losing information
+
+### Removing background from an image series
+*Application*: Remove the background fluorescence from an image series
+
+*What it does*: Substract the background
+
+*Advantage*: Necessary step for image processing. Mind the acquisition settings.
+
 
