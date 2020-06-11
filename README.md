@@ -34,4 +34,11 @@ Here I provide a set of simple tools to customise to your images and provide a b
 
 *Advantage*: Necessary step for image processing. Mind the acquisition settings.
 
+### Save and close all images
+*Application*: Save all the open images at once
+
+*What it does*: Save the images as tiff, in the order they were open
+
+*Advantage*: Usefull for parameter testing
+
 
